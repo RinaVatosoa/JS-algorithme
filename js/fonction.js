@@ -22,3 +22,4 @@ for (var k=0;k<10;k++) {
     document.write('20 fois de '+ k +' = ');
     affiche20fois(k);
 }
+document.writeln('<hr>');
