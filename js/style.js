@@ -1,3 +1,6 @@
+/**
+ *
+ */
 function change(){
         if( document.body.style.color == 'white'){
             document.body.style.color = 'black';
